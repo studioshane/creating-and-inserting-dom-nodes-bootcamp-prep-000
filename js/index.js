@@ -19,6 +19,7 @@ for (let i = 0; i < 3; i++) {
  
 element.appendChild(ul);
 
+<<<<<<< HEAD
 ul.style.textAlign = 'left';
 
 
@@ -26,3 +27,6 @@ ul.removeChild(ul.querySelector('li:nth-child(2)'));
 
 
 ul.remove();
+=======
+ul.style.textAlign = 'left';
+>>>>>>> 662b507729541ce0f889b9449c7a4c3c90a87d0c
